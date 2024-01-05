@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요! 👋<br>개발하는 사업가 이수혁입니다.
 
 <!--
 **puuy165/puuy165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
